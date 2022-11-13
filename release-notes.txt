@@ -1,0 +1,150 @@
+#----------------------------------------------------------------------------------------------------#
+
+Charlie's Pain(t) Version 1.0.5, 10/28/22
+
+New Features:
+	- Application now allows users to rotate the entire image (90 degrees)
+	- Application can now rotate specific chunks of the image  (90, 180, 270 degrees)
+	- Application's main drawing tools have buttons with icons
+    	- Application's main drawing tools now have tooltips on hover
+	- Application now has a log file that tracks the user's changes to the software (with threading)
+
+Known Issues:
+	- N/A
+
+Expected Next Sprint:
+	- N/A
+
+Links:
+	- GitHub Repository: https://github.com/charliemalach/CM-Paint
+	- YouTube Tutorial: https://www.youtube.com/watch?v=pLfPSMGaLRE
+
+#----------------------------------------------------------------------------------------------------#
+
+Charlie's Pain(t) Version 1.0.4, 10/2/22
+
+New Features:
+	- Application now has 3 separate unit tests
+	- Application now has auto-save feature implemented
+	- Application's auto-save has an optional visibility feature
+	- Application's code now includes Javadoc commenting
+	- Application has the ability to save in alternative file form than the original image
+
+Known Issues:
+	- N/A
+
+Expected Next Sprint:
+	- Ability to fill color on the shape
+	- Paint Bucket?
+	- Gradient tool?
+	- Text tool?
+
+Links:
+	- GitHub Repository: https://github.com/charliemalach/CM-Paint
+
+
+#----------------------------------------------------------------------------------------------------#
+
+Charlie's Pain(t) Version 1.0.3, 9/30/22
+
+New Features:
+	- Application starts with a blank, white, drawable canvas 
+	- Implemented a 'clear canvas' button that prompts users with a warning to verify that they want to clear
+	- Ability to undo / redo changes made to the image with a stack 
+	- Ability to erase parts of the image 
+	- Ability to draw a regular sided polygon with any user provided # of sides 
+	- Ability to copy and paste a selected piece of the image 
+	- Ability to select and move a piece of the image 
+	- Ability to draw a triangle (additional shape of choice) 
+
+Known Issues:
+	- N/A
+
+Expected Next Sprint:
+	- Ability to fill color on the shape
+	- Paint Bucket?
+	- Gradient tool?
+	- Text tool?
+
+Links:
+	- GitHub Repository: https://github.com/charliemalach/CM-Paint
+
+
+#----------------------------------------------------------------------------------------------------#
+
+Charlie's Pain(t) Version 1.0.2, 9/19/22
+
+New Features:
+	- Ability to draw (line, dashed line, pencil, rectangle, square, circle, ellipse)
+	- Ability to change size(line width) & color of drawn object
+	- Ability to save image with drawn changes
+	- Ability to select color from any specific pixel on the canvas
+	- Ability to handle multiple image types (png, jpg, bmp, jpeg, gif)
+	- Added keyboard shortcuts for menu items (ctrl+s, ctrl+shift+s, ctrl+o)
+	- Added tabs to handle multiple images within the program (yes, tabs work)
+	- Added 'smart save' prompting users to save upon closing unsaved project (on both tab close and program close)
+	- Added text label next to colors (hex for some, color name for more common)
+
+Known Issues:
+	- N/A
+
+Expected Next Sprint:
+	- Ability to fill color on the shape
+	- Paint Bucket?
+	- Gradient tool?
+	- Ability to erase from screen
+
+Links:
+	- GitHub Repository: https://github.com/charliemalach/CM-Paint
+
+#----------------------------------------------------------------------------------------------------#
+
+Charlie's Pain(t) Version 1.0.1, 9/16/22
+
+New Features: 
+	- Ability to draw a line on the canvas & pictures   
+	- Ability to choose color 
+	- Ability to change line size & color 
+	- Ability to save image with graphical changes 
+	- Ability to resize canvas upon opening new picture 
+	- Added scroll bar 
+	- Added 'Help' menu item with 'Help' and 'About' options  
+
+Known Issues: 
+	- N/A 
+
+Expected Next Sprint: 
+	- Ability to open multiple pictures
+	- Ability to open multiple windows (tabs) 
+	- Ability to draw shapes 
+	- Ability to erase from screen 
+
+Links: 
+	- GitHub Repository: https://github.com/charliemalach/CM-Paint
+
+#----------------------------------------------------------------------------------------------------#
+
+Charlie's Pain(t) Version 1.0.0, 9/9/22
+
+New Features: 
+	- Ability to open an image and display it on the screen 
+	- Ability to close, minimize, and maximize the program
+	- Ability to save image 
+	- Ability to save image as 
+	- A functional menu bar with holding multiple options (File, Help, Edit, Tool)
+	- Has a real icon (yay!) 
+
+Known Issues: 
+	- Canvas doesn't resize when opening a new image. 
+	- Edit, Tool have no options, just there for show (for now). 
+
+Expected Next Sprint: 
+	- Ability to open multiple pictures
+	- Ability to open multiple windows (tabs) 
+	- Ability to draw on screen 
+	- Ability to erase from screen 
+
+Links: 
+	- GitHub Repository: https://github.com/charliemalach/CM-Paint
+
+#----------------------------------------------------------------------------------------------------#
